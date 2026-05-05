@@ -3,6 +3,9 @@ contact_links:
   - name: Sensitive disclosure (private email)
     url: mailto:info@xentek.ca
     about: For sanitization issues identifying enough that a public issue would spread the leak — please email the maintainer privately instead of opening an issue.
+  - name: General discussion
+    url: https://github.com/xentek-ca/MSP-Integrations-and-Automations/discussions
+    about: For open-ended conversation about MSP automation, pattern adaptations, or comparing notes — prefer Discussions over Issues.
   - name: Xentek
     url: https://xentek.ca
     about: Want to talk through a pattern, or get help building a roadmap for your MSP? Reach out.

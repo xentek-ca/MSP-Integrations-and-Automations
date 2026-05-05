@@ -100,7 +100,7 @@ If you want to:
 
 reach out.
 
-> **Contact:** [info@xentek.ca](mailto:info@xentek.ca) · [xentek.ca](https://xentek.ca)
+> **Contact:** [info@xentek.ca](mailto:info@xentek.ca) · [xentek.ca](https://xentek.ca) · [Discussions](https://github.com/xentek-ca/MSP-Integrations-and-Automations/discussions)
 
 We don't have a customer-acquisition pitch baked into this repo. The bet is simple: if you read this and it's useful, you'll know where to find us.
 
