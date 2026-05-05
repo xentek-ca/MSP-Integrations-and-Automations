@@ -100,7 +100,7 @@ If you want to:
 
 reach out.
 
-> **Contact:** [info@xentek.ca](mailto:info@xentek.ca) · [xentek.ca](https://xentek.ca) · [Discussions](https://github.com/xentek-ca/MSP-Integrations-and-Automations/discussions)
+> **Contact:** [info@xentek.ca](mailto:info@xentek.ca) · [xentek.ca](https://xentek.ca) · [Discussions](https://github.com/xentek-ca/MSP-Integrations-and-Automations/discussions) · [Book 30 minutes consultation](https://calendar.zoho.com/zc/view/slot-booking/zz08011220f752a4b825a2234854dd9dc9d37cd3b665c7eb05352066402165db6d2cdfd71a)
 
 We don't have a customer-acquisition pitch baked into this repo. The bet is simple: if you read this and it's useful, you'll know where to find us.
 
