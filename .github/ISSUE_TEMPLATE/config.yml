@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Sensitive disclosure (private email)
+    url: mailto:info@xentek.ca
+    about: For sanitization issues identifying enough that a public issue would spread the leak — please email the maintainer privately instead of opening an issue.
+  - name: Xentek
+    url: https://xentek.ca
+    about: Want to talk through a pattern, or get help building a roadmap for your MSP? Reach out.

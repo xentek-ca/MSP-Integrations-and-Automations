@@ -1,0 +1,116 @@
+# =============================================================================
+# Internal source data — DO NOT COMMIT
+# =============================================================================
+# This is the unsanitized source spreadsheet that the public catalogue is built
+# from. It contains client names, employee names, internal URLs, ticket numbers,
+# tenant IDs, and workflow IDs. It must never reach the public repo.
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# =============================================================================
+# AI / Claude working files
+# =============================================================================
+# CLAUDE.md is guidance for AI agents editing this repo. It's useful locally
+# but not part of the public catalogue. Other AI tools (Cursor, Copilot Chat)
+# may also drop files here.
+CLAUDE.md
+.claude/
+.cursor/
+.aider*
+.continue/
+
+# =============================================================================
+# Internal project documents (uncomment to ignore from public repo)
+# =============================================================================
+# These two are referenced by ~15 public files. If you ignore them, the public
+# repo will have broken links. See the chat conversation that created this file
+# for the cross-reference inventory. Recommended: leave commented out so these
+# stay public.
+#
+# Rules.md
+# ProjectSpec.md
+
+# =============================================================================
+# Editor / IDE
+# =============================================================================
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*.swn
+*~
+.project
+.settings/
+.classpath
+
+# =============================================================================
+# OS
+# =============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# =============================================================================
+# Python (in case any skill scripts run locally)
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.python-version
+
+# =============================================================================
+# Node (in case any tooling runs locally)
+# =============================================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+# =============================================================================
+# Secrets / environment
+# =============================================================================
+.env
+.env.local
+.env.*.local
+.envrc
+*.pem
+*.key
+secrets/
+credentials/
+
+# =============================================================================
+# Backup / temp files
+# =============================================================================
+*.bak
+*.backup
+*.tmp
+*.temp
+*.orig
+*.rej
+*~
+\#*\#
+.\#*
+
+# =============================================================================
+# Logs
+# =============================================================================
+*.log
+logs/
